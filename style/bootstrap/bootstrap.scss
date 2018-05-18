@@ -21,7 +21,7 @@
 @import "3. Base files/grid";
 
 // 4. Layout-related sections
-//@import "4. Layout-related sections/me";
+@import "4. Layout-related sections/menu";
 
 
 // 5. Components
@@ -51,6 +51,7 @@
 @import "5. Components/carousel";
 
 // 6. Page-specific styles
+@import "6. Page-specific styles/dashboard.scss";
 
-// 7. ThemesASD
+// 7. Themes
 
